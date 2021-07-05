@@ -1,6 +1,7 @@
 node_modules
+package-lock.json
 .env
 .prod.env
-package-lock.json
-src/api/uploads/file
-.idea
+
+#src/api/uploads/file
+#.idea
