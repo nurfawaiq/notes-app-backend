@@ -2,6 +2,7 @@ node_modules
 package-lock.json
 .env
 .prod.env
+src/api/uploads/file
 
 #src/api/uploads/file
 #.idea
